@@ -1,0 +1,15 @@
+.form-section {
+  height: 200px;
+  margin: 20px;
+}
+
+.form-submission {
+  background-color: white;
+  border: 1px solid black;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 50%;
+}
